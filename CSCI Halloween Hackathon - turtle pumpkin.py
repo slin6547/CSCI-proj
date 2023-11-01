@@ -1,6 +1,6 @@
 # Name: Samantha Lin
 # Email: samantha.lin108@myhunter.cuny.edu
-# 1 November 2023
+# 01 November 2023
 # Program: pumpkin using turtle library
 
 import turtle       # import turtle package/library
